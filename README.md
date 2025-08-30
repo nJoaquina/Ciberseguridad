@@ -1,7 +1,5 @@
 Material del curso de Ciberseguridad
 🛡 Taller de Ciberseguridad Ofensiva – Repo Principal
-¡Bienvenid@s al repositorio oficial del Taller de Introducción a la Ciberseguridad! 👋
-Aquí encontrarás todo lo que necesitas para seguir el taller, practicar y aprender de manera segura. 🚀💻
 
 📂 Estructura del repositorio
 Recursos/
