@@ -1,20 +1,20 @@
-Material del curso de Ciberseguridad
-🛡 Taller de Ciberseguridad Ofensiva – Repo Principal
+Material del curso de Ciberseguridad: 
+Taller de Ciberseguridad Ofensiva – Repo Principal
 
-📂 Estructura del repositorio
+Estructura del repositorio
 Recursos/
-Apuntes, guías, capturas y todo el material de referencia que usamos en las clases. Tu kit de supervivencia hacker. 🔥
+Apuntes, guías, capturas y material de referencia usado en las clases. 
 
 Scripts/
-Ejemplos y ejercicios en Python, Bash u otros lenguajes, listos para probar en tu VM.
+Ejemplos y ejercicios en Python, Bash u otros lenguajes.
 
 Laboratorios/
-Instrucciones y archivos de laboratorio prácticos para poner a prueba tus habilidades.
+Instrucciones y archivos de laboratorio prácticos.
 
 Capturas/
-Screenshots de prácticas y soluciones de ejemplo para guiarte si te trabas.
+Screenshots de prácticas y soluciones de ejemplo.
 
-🛠 Herramientas necesarias
+Herramientas necesarias: 
 VirtualBox – Para crear máquinas virtuales seguras.
 Kali Linux – La VM principal de práctica.
 Python 3 🐍 – Para ejecutar scripts y automatizaciones.
