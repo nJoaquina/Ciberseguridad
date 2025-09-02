@@ -1,4 +1,6 @@
-Material del curso de Ciberseguridad: 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Material del curso de Ciberseguridad:🔐)
+
+
 Taller de Ciberseguridad Ofensiva – Repo Principal
 
 Estructura del repositorio
@@ -19,4 +21,4 @@ VirtualBox – Para crear máquinas virtuales seguras.
 Kali Linux – La VM principal de práctica.
 Python 3 🐍 – Para ejecutar scripts y automatizaciones.
 Otras herramientas mencionadas en las clases: nmap, netcat, Wireshark, etc.
-<img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
+
