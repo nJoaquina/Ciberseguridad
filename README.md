@@ -5,6 +5,9 @@
 
 </div>
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+
 Estructura del repositorio
 Recursos/
 Apuntes, guías, capturas y material de referencia usado en las clases. 
