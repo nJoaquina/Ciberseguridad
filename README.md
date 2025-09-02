@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Material del curso de Ciberseguridad:🔐)
+ <div align="center">
+        <img src="https://media.giphy.com/media/mtmFB01G4rvFEHAsfI/giphy.gif" alt="ảnh gif">
+    </div>
 
 
 Taller de Ciberseguridad Ofensiva – Repo Principal
