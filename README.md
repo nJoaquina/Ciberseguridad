@@ -1,7 +1,6 @@
- <div align="center">
-        <img src="https://media.giphy.com/media/mtmFB01G4rvFEHAsfI/giphy.gif" alt="Taller de Ciberseguridad Ofensiva">
-    </div>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Taller de Ciberseguridad Ofensiva – Repo Principal+!">
+</p>
 
 Taller de Ciberseguridad Ofensiva – Repo Principal
 
