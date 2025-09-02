@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Taller+de+Ciberseguridad+Ofensiva+Repo Principal+!">
-</p>
+ <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
 Taller de Ciberseguridad Ofensiva – Repo Principal
 
