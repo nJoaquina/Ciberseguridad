@@ -19,4 +19,4 @@ VirtualBox – Para crear máquinas virtuales seguras.
 Kali Linux – La VM principal de práctica.
 Python 3 🐍 – Para ejecutar scripts y automatizaciones.
 Otras herramientas mencionadas en las clases: nmap, netcat, Wireshark, etc.
- <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
+ <img align="center" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
