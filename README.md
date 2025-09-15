@@ -27,5 +27,8 @@ Kali Linux – La VM principal de práctica.
 Python 3 🐍 – Para ejecutar scripts y automatizaciones.
 Otras herramientas mencionadas en las clases: nmap, netcat, Wireshark, etc.
 
+Link del curso: 
+https://www.youtube.com/watch?v=HlnrxnnkJqo&list=PLEWFrzvLXnigm7zn9qH4bjLfR8AkCSBgt&index=2
+
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
